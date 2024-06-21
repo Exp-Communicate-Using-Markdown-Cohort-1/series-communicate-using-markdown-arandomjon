@@ -5,3 +5,7 @@
 ```
 print(hello)
 ```
+## List of things to do ##
+
+- [x] Take a nap
+- [ ] Learn how to finish this example
